@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/jvitor/REDMAT/produtos/semana7/video_manim/media/videos/trigonometria/480p15/partial_movie_files/Trig/4266129954_3307172953_2358810818.mp4'
+file 'file:/home/jvitor/REDMAT/produtos/semana7/video_manim/media/videos/trigonometria/480p15/partial_movie_files/Trig/1442284246_1215603524_1122020190.mp4'
